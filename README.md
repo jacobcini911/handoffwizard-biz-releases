@@ -1,4 +1,4 @@
-# Handoff Wizard — Public Release Host
+# Handoff Wizard BIZ — Public Release Host
 
 Distribution channel for **Handoff Wizard** desktop installers.
 
